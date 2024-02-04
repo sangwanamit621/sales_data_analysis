@@ -1,0 +1,6 @@
+Faker
+google-cloud
+mysql-connector-python
+configparser
+pyspark
+python-dotenv
