@@ -1,7 +1,7 @@
 # Sales Data Analysis
 
 ## Overview
-This project focuses on processing sales and customer data, rewarding top-performing employees and customers, and performing analytical queries using Google Cloud Storage (GCS), MySQL, and BigQuery. The system is designed to track and reward the top 3 sales employees and customers based on their performance.
+Sales Performance Analysis is a data-driven project that processes sales input data and customer-related information to reward top-performing employees and customers. The project utilizes Google Cloud Storage (GCS) for data storage, MySQL for customer and store information, and BigQuery for data analysis.
 
 ## Project Structure
 The project follows a modular structure for better organization and scalability:
